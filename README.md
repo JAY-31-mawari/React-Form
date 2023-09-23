@@ -20,3 +20,4 @@ A React Form with a Backend along with a mongodb database.
 > for backend by command - "nodemon index.js"
 > and don't forget to type this respective command in their respectice Terminal.
 > And to see the database, Download MongoDb and Install 'mondo compass' and read the documentation how to use it online.
+> styling is not good and the data that you submit is get from the database and shown at the end of the submit button
